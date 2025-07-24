@@ -1,5 +1,19 @@
 # The Last Template
 
+## 輪播圖 (swiper)
+![image](https://hackmd.io/_uploads/ByJvOH1vee.png)
+
+## chart.js
+![image](https://hackmd.io/_uploads/SJgidrJweg.png)
+
+## GSAP
+![image](https://hackmd.io/_uploads/Sk_2uHJDxg.png)
+
+
+---
+
+
+
 ## 1. 列出模板參考網址
 
 ### [模板參考網址](https://demo.templatemonster.com/demo/241006.html?_gl=1*1omx8jx*_gcl_au*NzcxODk2MjI5LjE3NDk1MjcyMDQ.*_ga*MTM2NjI1MDE0OS4xNzQ5NTI3MjAx*_ga_FTPYEGT5LY*czE3NDk3Mjg5ODQkbzMkZzEkdDE3NDk3MzIxNjQkajIzJGwwJGgw)
